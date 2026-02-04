@@ -1,0 +1,15 @@
+using UnityEngine;
+
+public class GameManager : MonoBehaviour
+{
+    
+    void Start()
+    {   
+        Debug.Log("GameManager has started");
+    }
+    
+    void Update()
+    {
+        
+    }
+}
