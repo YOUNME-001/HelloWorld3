@@ -5,12 +5,7 @@ public class PlayerController : MonoBehaviour
     
     void Start()
     {
-        Debug.Log("PlayerController Has Started");
+        Debug.Log("PlayerController has started");
     }
-
     
-    void Update()
-    {
-        
-    }
 }
