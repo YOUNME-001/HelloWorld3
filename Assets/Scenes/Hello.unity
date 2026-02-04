@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 564092635}
   - component: {fileID: 564092634}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: GameManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -392,7 +392,7 @@ GameObject:
   - component: {fileID: 1701157178}
   - component: {fileID: 1701157177}
   m_Layer: 0
-  m_Name: Cylinder
+  m_Name: Enumy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
